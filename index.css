@@ -1,0 +1,15 @@
+.bg-gradient {
+background: linear-gradient(120deg, rgba(79,163,114,0.92) 0%, rgba(6,191,170,0.95) 100%);
+}
+.btn-block {
+    cursor: pointer;
+}
+.per-shadow {
+    box-shadow: 2px 2px 20px 2px rgba(0,0,0,0.39);
+-webkit-box-shadow: 2px 2px 20px 2px rgba(0,0,0,0.39);
+-moz-box-shadow: 2px 2px 20px 2px rgba(0,0,0,0.39);
+border-radius: 5px;
+}
+#loading, #results {
+    display: none;
+}
